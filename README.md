@@ -24,7 +24,6 @@ This project explores **data phishing on Instagram**, demonstrating how cybercri
 
 **Database**  
 - **CSV/Excel** – Stores captured user credentials.
-- 
 
 **How It Works**  
 
